@@ -11,7 +11,7 @@ dependencies:
   - nodejs {nodejs}
   # for python language server (and development)
   - flake8 >=3.5
-  - python-language-server
+  - python-language-server >=0.36.2
   # for R language server and kernel
   # TODO: try r 4.0 soon
   - r <4
