@@ -8,3 +8,4 @@ sphinx_autodoc_typehints
 sphinx-autobuild
 sphinx-copybutton
 sphinx-book-theme
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
